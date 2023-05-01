@@ -7,3 +7,5 @@
 [Scientific Computing with Python (freeCodeCamp)](https://github.com/ArtemKhadris/Scientific-Computing-with-Python)
 
 [Machine Learning with Python (freeCodeCamp)](https://github.com/ArtemKhadris/Machine-Learning-with-Python)
+
+[MIT Introduction to Deep Learning](https://github.com/ArtemKhadris/MIT-Introduction-to-Deep-Learning)
